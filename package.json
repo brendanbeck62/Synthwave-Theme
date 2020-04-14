@@ -8,6 +8,15 @@
     "categories": [
         "Themes"
     ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "test-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme.json"
+            }
+        ]
+    },
     "repository": {
         "type": "git",
         "url": "https://https://github.com/brendanbeck62/vscode-theme"
