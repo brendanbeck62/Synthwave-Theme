@@ -1,5 +1,5 @@
 {
-    "name": "test-theme",
+    "name": "synthwave",
     "publisher": "brendanbeck62",
     "version": "0.0.1",
     "engines": {
@@ -11,9 +11,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "test-theme",
+                "label": "synthwave",
                 "uiTheme": "vs-dark",
-                "path": "./themes/theme.json"
+                "path": "./themes/synthwave-theme.json"
             }
         ]
     },
