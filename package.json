@@ -1,0 +1,15 @@
+{
+    "name": "test-theme",
+    "publisher": "brendanbeck62",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://https://github.com/brendanbeck62/vscode-theme"
+    }
+}
