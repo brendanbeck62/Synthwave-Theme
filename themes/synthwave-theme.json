@@ -82,7 +82,8 @@
         "support.other.variable",
         "string.other.link",
         "source.python",
-        "variable.parameter.js"
+        "variable.parameter.js",
+        "meta.clause.body.prolog"
       ],
       "settings": {
         "foreground": "#97f8ff"
