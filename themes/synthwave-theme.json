@@ -55,7 +55,11 @@
 
     "focusBorder": "#75dff2",
     "editorBracketMatch.background": "#ffffff13",
-    "icon.foreground": "#fc4384"
+    "icon.foreground": "#fc4384",
+    
+    
+    "terminal.ansiMagenta":"#FC4384",
+    "terminal.ansiCyan":"#42E1FD"
   },
   "tokenColors": [
     {
