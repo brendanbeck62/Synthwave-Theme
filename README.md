@@ -1,4 +1,4 @@
-# vscode-theme
+# Synthwave Theme
 
 ## How To Use
 1. Clone the repo, and place `synthwave-0.0.1.vsix` into the vscode extensions directory:
