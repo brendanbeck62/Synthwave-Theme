@@ -3,8 +3,8 @@
 ## Download
 
 1. Download the vsix file <a href="https://brendanbeck.com/synthwave-theme">HERE</a> and place in the vscode extensions directory:
-    - Windows %USERPROFILE%\.vscode\extensions
-    - macOS and Linux ~/.vscode/extensions
+    - Windows `%USERPROFILE%\.vscode\extensions`
+    - macOS and Linux `~/.vscode/extensions`
 2. In vscode, go to the extensions tab on the side bar, and click the 3 dots
 3. At the bottom of the menu, select `Install from VSIX`
 4. Navigate to your vscode extensions directory, and select `Synthwave-Theme.vsix`
