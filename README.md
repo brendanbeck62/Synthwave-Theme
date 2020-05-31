@@ -1,7 +1,7 @@
 # Synthwave Theme
 
 ## Download
-<a href="brendanbeck.com/synthwave-theme" download>Click to Download</a>
+<a href="www.brendanbeck.com/synthwave-theme">Click to Download</a>
 
 
 ## Resources
