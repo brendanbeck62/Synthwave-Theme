@@ -10,6 +10,16 @@
 4. Navigate to your vscode extensions directory, and select `synthwave-0.0.1.vsix`
 5. If it does not immedietely change your theme, select the extension and click "Set Color Theme", then hit enter
 
+## Colors
+ - Magenta: #fc4384
+ - Orange: #ff8b56
+ - Dark Grey: #646464
+ - Light Grey: adadad#
+ - Light Blue: #97f8ff
+ - Red: #ff3957
+ - Purple: #b973fa
+ - Green: #04f54d
+
 
 ## Resources
 #### List of all VSCode tokens:</br>
