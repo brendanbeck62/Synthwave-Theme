@@ -1,13 +1,13 @@
-# vscode-theme
+# Synthwave Theme
 
-## How To Use
-1. Clone the repo, and place `synthwave-0.0.1.vsix` into the vscode extensions directory:
-    - Windows %USERPROFILE%\.vscode\extensions
-    - macOS ~/.vscode/extensions
-    - Linux ~/.vscode/extensions
+## Download
+
+1. Download the vsix file <a href="https://brendanbeck.com/synthwave-theme">HERE</a> and place in the vscode extensions directory:
+    - Windows `%USERPROFILE%\.vscode\extensions`
+    - macOS and Linux `~/.vscode/extensions`
 2. In vscode, go to the extensions tab on the side bar, and click the 3 dots
 3. At the bottom of the menu, select `Install from VSIX`
-4. Navigate to your vscode extensions directory, and select `synthwave-0.0.1.vsix`
+4. Navigate to your vscode extensions directory, and select `Synthwave-Theme.vsix`
 5. If it does not immedietely change your theme, select the extension and click "Set Color Theme", then hit enter
 
 ## Colors
