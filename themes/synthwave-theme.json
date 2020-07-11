@@ -86,8 +86,8 @@
         "support.type",
         "support.class",
         "meta.tag",
-        "meta.clause.body.prolog"
-
+        "meta.clause.body.prolog",
+        "meta.function-call.arguments.python"
       ],
       "settings": {
         "foreground": "#97f8ff"
